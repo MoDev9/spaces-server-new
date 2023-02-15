@@ -1,0 +1,5 @@
+package model
+
+const (
+	PERMISSION_READ_USER_SPACES = "PERMISSION_READ_USER_SPACES"
+)
