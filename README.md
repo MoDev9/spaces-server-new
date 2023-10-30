@@ -1,2 +1,2 @@
 # spaces-server-new
-Communication Platform
+Organized Team Chat and Collaborative App
